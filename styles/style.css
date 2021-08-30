@@ -1,0 +1,23 @@
+main{
+    margin: 65px 90px 50px 90px; 
+   }
+   
+   header{
+     text-align: center;
+   }
+   p{
+     text-align: justify;
+   }
+    #tribute-link {
+       color:purple;
+     }
+
+body{
+  border: solid 12px;
+  margin: solid 80px;
+}
+
+#encabezado-lista{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
